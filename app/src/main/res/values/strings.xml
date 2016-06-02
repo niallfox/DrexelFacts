@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drexel Facts</string>
+    <string name="action_settings">Information</string>
+    <string name="title_activity_about">Information</string>
+    <string name="error_title">Sorry, something went wrong.</string>
+    <string name="error_message">Please try again.</string>
+    <string name="error_ok_button_text">OK</string>
+    <string name="network_unavailable_message">Network is unavailable</string>
+</resources>
